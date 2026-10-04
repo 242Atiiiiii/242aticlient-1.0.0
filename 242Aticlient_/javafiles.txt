@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\AnchorMacro.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\AutoCrystal.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\CategoryPanel.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\ClickGUI.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\ConfigManager.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\DoubleAnchor.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\EventManager.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\Fly.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\KillAura.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\Main.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\Module.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\ModuleManager.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\Scaffold.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\Speed.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\XRay.java
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\242aticlient\mixin\XRayMixin.java

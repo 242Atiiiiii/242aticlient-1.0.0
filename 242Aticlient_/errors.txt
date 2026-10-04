@@ -1,0 +1,374 @@
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Xray.java:11: error: class XRay is public, should be declared in a file named XRay.java
+public class XRay extends Module {
+       ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AnchorMacro.java:3: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AnchorMacro.java:4: error: package net.minecraft.world.entity.player does not exist
+import net.minecraft.world.entity.player.Player;
+                                        ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AnchorMacro.java:5: error: package net.minecraft.world does not exist
+import net.minecraft.world.InteractionHand;
+                          ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AnchorMacro.java:6: error: package net.minecraft.world.phys does not exist
+import net.minecraft.world.phys.Vec3;
+                               ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Module.java:3: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Module.java:4: error: package net.minecraft.network.chat does not exist
+import net.minecraft.network.chat.Component;
+                                 ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AnchorMacro.java:16: error: cannot find symbol
+    public void onTick(Minecraft client) {
+                       ^
+  symbol:   class Minecraft
+  location: class AnchorMacro
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AnchorMacro.java:41: error: cannot find symbol
+    private Player getNearestPlayer(Minecraft client) {
+                                    ^
+  symbol:   class Minecraft
+  location: class AnchorMacro
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AnchorMacro.java:41: error: cannot find symbol
+    private Player getNearestPlayer(Minecraft client) {
+            ^
+  symbol:   class Player
+  location: class AnchorMacro
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Module.java:22: error: cannot find symbol
+    public void onTick(Minecraft client) {}
+                       ^
+  symbol:   class Minecraft
+  location: class Module
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AutoCrystal.java:3: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AutoCrystal.java:4: error: package net.minecraft.world.entity.player does not exist
+import net.minecraft.world.entity.player.Player;
+                                        ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AutoCrystal.java:5: error: package net.minecraft.world.item does not exist
+import net.minecraft.world.item.Items;
+                               ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AutoCrystal.java:6: error: package net.minecraft.world does not exist
+import net.minecraft.world.InteractionHand;
+                          ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AutoCrystal.java:7: error: package net.minecraft.core does not exist
+import net.minecraft.core.BlockPos;
+                         ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AutoCrystal.java:8: error: package net.minecraft.world.level.block does not exist
+import net.minecraft.world.level.block.Blocks;
+                                      ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AutoCrystal.java:9: error: package net.minecraft.world.phys does not exist
+import net.minecraft.world.phys.Vec3;
+                               ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AutoCrystal.java:20: error: cannot find symbol
+    public void onTick(Minecraft client) {
+                       ^
+  symbol:   class Minecraft
+  location: class AutoCrystal
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AutoCrystal.java:44: error: cannot find symbol
+    private BlockPos findCrystalPlacePosition(Minecraft client, BlockPos targetPos) {
+                                              ^
+  symbol:   class Minecraft
+  location: class AutoCrystal
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AutoCrystal.java:44: error: cannot find symbol
+    private BlockPos findCrystalPlacePosition(Minecraft client, BlockPos targetPos) {
+                                                                ^
+  symbol:   class BlockPos
+  location: class AutoCrystal
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AutoCrystal.java:44: error: cannot find symbol
+    private BlockPos findCrystalPlacePosition(Minecraft client, BlockPos targetPos) {
+            ^
+  symbol:   class BlockPos
+  location: class AutoCrystal
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AutoCrystal.java:57: error: cannot find symbol
+    private Player getNearestPlayer(Minecraft client) {
+                                    ^
+  symbol:   class Minecraft
+  location: class AutoCrystal
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\AutoCrystal.java:57: error: cannot find symbol
+    private Player getNearestPlayer(Minecraft client) {
+            ^
+  symbol:   class Player
+  location: class AutoCrystal
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\CategoryPanel.java:3: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\CategoryPanel.java:4: error: package net.minecraft.client.gui does not exist
+import net.minecraft.client.gui.GuiGraphics;
+                               ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\CategoryPanel.java:26: error: cannot find symbol
+    public void render(GuiGraphics context, int mouseX, int mouseY) {
+                       ^
+  symbol:   class GuiGraphics
+  location: class CategoryPanel
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\CategoryPanel.java:51: error: cannot find symbol
+    private void renderModule(GuiGraphics context, Module mod, int mouseX, int mouseY, int moduleY) {
+                              ^
+  symbol:   class GuiGraphics
+  location: class CategoryPanel
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\ClickGUI.java:3: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\ClickGUI.java:4: error: package net.minecraft.client.gui does not exist
+import net.minecraft.client.gui.GuiGraphics;
+                               ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\ClickGUI.java:5: error: package net.minecraft.client.gui.screens does not exist
+import net.minecraft.client.gui.screens.Screen;
+                                       ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\ClickGUI.java:6: error: package net.minecraft.network.chat does not exist
+import net.minecraft.network.chat.Component;
+                                 ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\ClickGUI.java:11: error: cannot find symbol
+public class ClickGUI extends Screen {
+                              ^
+  symbol: class Screen
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\ClickGUI.java:49: error: cannot find symbol
+    public void render(GuiGraphics context, int mouseX, int mouseY, float delta) {
+                       ^
+  symbol:   class GuiGraphics
+  location: class ClickGUI
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\ClickGUI.java:66: error: cannot find symbol
+    private void drawWindow(GuiGraphics context) {
+                            ^
+  symbol:   class GuiGraphics
+  location: class ClickGUI
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\ConfigManager.java:3: error: package com.google.gson does not exist
+import com.google.gson.Gson;
+                      ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\ConfigManager.java:4: error: package com.google.gson does not exist
+import com.google.gson.GsonBuilder;
+                      ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\ConfigManager.java:5: error: package com.google.gson does not exist
+import com.google.gson.JsonObject;
+                      ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\ConfigManager.java:6: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\ConfigManager.java:14: error: cannot find symbol
+    private static final Gson GSON = new GsonBuilder().setPrettyPrinting().create();
+                         ^
+  symbol:   class Gson
+  location: class ConfigManager
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:3: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:4: error: package net.minecraft.world.entity.player does not exist
+import net.minecraft.world.entity.player.Player;
+                                        ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:5: error: package net.minecraft.world does not exist
+import net.minecraft.world.InteractionHand;
+                          ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:6: error: package net.minecraft.core does not exist
+import net.minecraft.core.BlockPos;
+                         ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:7: error: package net.minecraft.world.phys does not exist
+import net.minecraft.world.phys.Vec3;
+                               ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:12: error: cannot find symbol
+    private Player target;
+            ^
+  symbol:   class Player
+  location: class DoubleAnchor
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:13: error: cannot find symbol
+    private BlockPos firstAnchorPos;
+            ^
+  symbol:   class BlockPos
+  location: class DoubleAnchor
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:14: error: cannot find symbol
+    private BlockPos secondAnchorPos;
+            ^
+  symbol:   class BlockPos
+  location: class DoubleAnchor
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:21: error: cannot find symbol
+    public void onTick(Minecraft client) {
+                       ^
+  symbol:   class Minecraft
+  location: class DoubleAnchor
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:58: error: cannot find symbol
+    private void prepareAnchors(Minecraft client) {
+                                ^
+  symbol:   class Minecraft
+  location: class DoubleAnchor
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:66: error: cannot find symbol
+    private void triggerFirstAnchor(Minecraft client) {
+                                    ^
+  symbol:   class Minecraft
+  location: class DoubleAnchor
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:79: error: cannot find symbol
+    private void triggerSecondAnchor(Minecraft client) {
+                                     ^
+  symbol:   class Minecraft
+  location: class DoubleAnchor
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:92: error: cannot find symbol
+    private void placeAnchor(Minecraft client, BlockPos pos) {
+                             ^
+  symbol:   class Minecraft
+  location: class DoubleAnchor
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:92: error: cannot find symbol
+    private void placeAnchor(Minecraft client, BlockPos pos) {
+                                               ^
+  symbol:   class BlockPos
+  location: class DoubleAnchor
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:101: error: cannot find symbol
+    private Player getNearestPlayer(Minecraft client) {
+                                    ^
+  symbol:   class Minecraft
+  location: class DoubleAnchor
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\DoubleAnchor.java:101: error: cannot find symbol
+    private Player getNearestPlayer(Minecraft client) {
+            ^
+  symbol:   class Player
+  location: class DoubleAnchor
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\EventManager.java:3: error: package net.fabricmc.fabric.api.client.event.lifecycle.v1 does not exist
+import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
+                                                        ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\EventManager.java:4: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\EventManager.java:5: error: package net.minecraft.client does not exist
+import net.minecraft.client.KeyMapping;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\EventManager.java:6: error: package org.lwjgl.glfw does not exist
+import org.lwjgl.glfw.GLFW;
+                     ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Fly.java:3: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Fly.java:25: error: cannot find symbol
+    public void onTick(Minecraft client) {
+                       ^
+  symbol:   class Minecraft
+  location: class Fly
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\KillAura.java:3: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\KillAura.java:4: error: package net.minecraft.world.entity does not exist
+import net.minecraft.world.entity.Entity;
+                                 ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\KillAura.java:5: error: package net.minecraft.world.entity.player does not exist
+import net.minecraft.world.entity.player.Player;
+                                        ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\KillAura.java:6: error: package net.minecraft.world does not exist
+import net.minecraft.world.InteractionHand;
+                          ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\KillAura.java:14: error: cannot find symbol
+    public void onTick(Minecraft client) {
+                       ^
+  symbol:   class Minecraft
+  location: class KillAura
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\KillAura.java:28: error: cannot find symbol
+    private Player getNearestPlayer(Minecraft client) {
+                                    ^
+  symbol:   class Minecraft
+  location: class KillAura
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\KillAura.java:28: error: cannot find symbol
+    private Player getNearestPlayer(Minecraft client) {
+            ^
+  symbol:   class Player
+  location: class KillAura
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Main.java:4: error: package net.fabricmc.fabric.api.client.event.lifecycle.v1 does not exist
+import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
+                                                        ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Main.java:5: error: package net.fabricmc.fabric.api.client.keybinding.v1 does not exist
+import net.fabricmc.fabric.api.client.keybinding.v1.KeyBindingHelper;
+                                                   ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Main.java:6: error: package net.minecraft.client does not exist
+import net.minecraft.client.KeyMapping;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Main.java:7: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Main.java:8: error: package net.minecraft.network.chat does not exist
+import net.minecraft.network.chat.Component;
+                                 ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Main.java:9: error: package org.lwjgl.glfw does not exist
+import org.lwjgl.glfw.GLFW;
+                     ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Main.java:13: error: cannot find symbol
+    public static KeyMapping guiKey;
+                  ^
+  symbol:   class KeyMapping
+  location: class Main
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Scaffold.java:3: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Scaffold.java:4: error: package net.minecraft.world.item does not exist
+import net.minecraft.world.item.BlockItem;
+                               ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Scaffold.java:5: error: package net.minecraft.world.item does not exist
+import net.minecraft.world.item.ItemStack;
+                               ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Scaffold.java:6: error: package net.minecraft.world does not exist
+import net.minecraft.world.InteractionHand;
+                          ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Scaffold.java:7: error: package net.minecraft.world.phys does not exist
+import net.minecraft.world.phys.BlockHitResult;
+                               ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Scaffold.java:8: error: package net.minecraft.core does not exist
+import net.minecraft.core.BlockPos;
+                         ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Scaffold.java:9: error: package net.minecraft.core does not exist
+import net.minecraft.core.Direction;
+                         ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Scaffold.java:10: error: package net.minecraft.world.phys does not exist
+import net.minecraft.world.phys.Vec3;
+                               ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Scaffold.java:18: error: cannot find symbol
+    public void onTick(Minecraft client) {
+                       ^
+  symbol:   class Minecraft
+  location: class Scaffold
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Speed.java:3: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Speed.java:4: error: package net.minecraft.world.phys does not exist
+import net.minecraft.world.phys.Vec3;
+                               ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Speed.java:14: error: cannot find symbol
+    public void onTick(Minecraft client) {
+                       ^
+  symbol:   class Minecraft
+  location: class Speed
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Xray.java:3: error: package net.minecraft.client does not exist
+import net.minecraft.client.Minecraft;
+                           ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Xray.java:4: error: package net.minecraft.world.level.block does not exist
+import net.minecraft.world.level.block.Block;
+                                      ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Xray.java:5: error: package net.minecraft.world.level.block does not exist
+import net.minecraft.world.level.block.Blocks;
+                                      ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Xray.java:12: error: cannot find symbol
+    private static final Set<Block> ORE_BLOCKS = new HashSet<>(Arrays.asList(
+                             ^
+  symbol:   class Block
+  location: class XRay
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\Xray.java:52: error: cannot find symbol
+    public static boolean shouldRender(Block block) {
+                                       ^
+  symbol:   class Block
+  location: class XRay
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\XRayMixin.java:4: error: package net.minecraft.client.renderer.block does not exist
+import net.minecraft.client.renderer.block.BlockRenderDispatcher;
+                                          ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\XRayMixin.java:5: error: package net.minecraft.world.level.block.state does not exist
+import net.minecraft.world.level.block.state.BlockState;
+                                            ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\XRayMixin.java:6: error: package net.minecraft.core does not exist
+import net.minecraft.core.BlockPos;
+                         ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\XRayMixin.java:7: error: package net.minecraft.world.level does not exist
+import net.minecraft.world.level.BlockGetter;
+                                ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\XRayMixin.java:8: error: package com.mojang.blaze3d.vertex does not exist
+import com.mojang.blaze3d.vertex.PoseStack;
+                                ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\XRayMixin.java:9: error: package net.minecraft.client.renderer does not exist
+import net.minecraft.client.renderer.MultiBufferSource;
+                                    ^
+C:\Users\User\Desktop\242Aticlient_\src\main\java\com\_242aticlient\mixin\XRayMixin.java:10: error: package org.spongepowered.asm.mixin does not exist
+import org.spongepowered.asm.mixin.Mixin;
+                                  ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+100 errors
+only showing the first 100 errors, of 245 total; use -Xmaxerrs if you would like to see more

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "242aticlient",
+  "version": "1.0.0",
+  "name": "242Aticlient_",
+  "description": "242Aticlient_ - Minecraft Client",
+  "authors": ["242"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "main": ["com._242aticlient.Main"]
+  },
+  "mixins": ["242aticlient.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~26.1",
+    "java": ">=26",
+    "fabric-api": "*"
+  }
+}

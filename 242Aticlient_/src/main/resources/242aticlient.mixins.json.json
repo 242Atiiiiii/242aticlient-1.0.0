@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com._242aticlient.mixin",
+  "compatibilityLevel": "JAVA_26",
+  "mixins": ["XRayMixin"],
+  "client": ["XRayMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
